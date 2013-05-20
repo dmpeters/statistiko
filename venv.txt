@@ -1,0 +1,10 @@
+Scrapy==0.16.4
+Twisted==13.0.0
+distribute==0.6.34
+lxml==3.2.1
+pyOpenSSL==0.13
+tornado==3.0.1
+w3lib==1.2
+wsgiref==0.1.2
+yolk==0.4.3
+zope.interface==4.0.5
